@@ -17,7 +17,7 @@ private double heure;
         return heure;
     }
 
-    public double getSalaire (){
+    public double getSalaire (){ //même remarque 
         return salaire*heure;
     }
 }
