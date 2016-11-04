@@ -18,7 +18,7 @@ public class EmplyerPleinTemps extends Employe {
     public double getPrime() {
         return prime;
     }
-     public double getSalaire (){
+     public double getSalaire (){ // mais salaire ?? ne se calcule pas 
         return salaire*4+prime;
 
     }
